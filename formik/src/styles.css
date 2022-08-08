@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.form{
+  align-items: center;
+  margin-top: 250px;
+  height: 150px;
+  background-color: yellow;
+  text-align: center ;
+  
+}
+  body{
+  background-color: brown;
+  }
+  .button{
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: blue;
+  }
